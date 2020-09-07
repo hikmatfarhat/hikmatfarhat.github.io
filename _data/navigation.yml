@@ -12,11 +12,8 @@ main:
     #  - title: "Lectures"
     #    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Useful Code"
+    url: /code/
     
     #  - title: "CV"
     #    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
