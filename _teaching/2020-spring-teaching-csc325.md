@@ -8,7 +8,7 @@ date: 2020-04-10
 location: "Zouk Mosbeh, Lebanon"
 ---
 
-Course material can be found [here](https://hikmatfarhat-ndu/NDU-CSC325/inclass).
+The **course material** can be found [here](https://hikmatfarhat-ndu/CSC325).
 **Short description**: This is the standard algorithm course where the student is introduced to
 thedifferent algorithm design paradigms: divide-and-conquer, greedy and dynamic programming.
 Network flows and applications are covered as well. In addition NP compleness is introduced from
