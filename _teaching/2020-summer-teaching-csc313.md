@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2020-spring-teaching-csc313
 venue: "Notre Dame University-Louaize"
-date: 2020-03-01
+date: 2020-06-01
 location: "Zouk Mosbeh, Lebanon"
 ---
 
