@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   code:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
