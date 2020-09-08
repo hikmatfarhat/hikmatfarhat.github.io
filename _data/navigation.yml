@@ -12,8 +12,8 @@ main:
     #  - title: "Lectures"
     #    url: /portfolio/
         
-  - title: "Code"
-    url: /code/
+    #  - title: "Code"
+    #url: /code/
     
     #  - title: "CV"
     #    url: /cv/
