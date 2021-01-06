@@ -2,7 +2,7 @@
 title: "Machine Learning Workshop"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2020-spring-teaching-csc325
+permalink: /teaching/2020-fall-workshop
 venue: "Notre Dame University-Louaize"
 date: 2020-11-16
 location: "Zouk Mosbeh, Lebanon"
